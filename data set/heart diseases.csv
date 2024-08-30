@@ -1,0 +1,7 @@
+diameter narrowing age,age,gender,chest pain,rest SBP,cholesterol,fasting blood sugar > 120,rest ECG,max HR,exerc ind ang,ST by exercise,slope peak exe ST,major vessels colored,thal
+,45,male ,typical ang,125,134,0,left vent hypertrophy,123,1,0.2,downsloping,1,normal
+,54,female,asymptomatic,170,246,0,normal,113,0,0.4,downsloping,3,fixed defect
+,64,male ,non-anginal,130,245,1,ST-T abnormal,114,1,0.5,downsloping,2,fixed defect
+,80,female,asymptomatic,140,177,1,normal,134,0,0.6,downsloping,0,reversable defect
+,75,female,asymptomatic,200,345,0,left vent hypertrophy,156,1,0.6,downsloping,1,reversable defect
+,56,male ,asymptomatic,145,200,1,ST-T abnormal,134,0,4.8,downsloping,2,normal
